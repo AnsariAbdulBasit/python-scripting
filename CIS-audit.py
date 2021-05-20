@@ -41,6 +41,6 @@ for string in string:
     else:
         print("Incorrect")
 
-import commands
-status, output = commands.getstatusoutput(grep ,string  /etc/security/pwquality.conf)
-print(status, output) 
+#import commands
+#status, output = commands.getstatusoutput(grep ,string  /etc/security/pwquality.conf)
+#print(status, output) 
